@@ -2,45 +2,45 @@
 
 
 # Exo 1- Ne garder que le vert 
-<img src="IMAGES/exo1.png"> 
+<img src="images/exo1.png"> 
 
 # Exo 2- Echanger les canaux
-<img src="IMAGES/exo2.png" > 
+<img src="images/exo2.png" > 
 
 # Exo 3- Noir et Blanc 
-<img src="IMAGES/exo3.png" > 
+<img src="images/exo3.png" > 
 
 # Exo 4- Négatif
-<img src="IMAGES/exo4.png" > 
+<img src="images/exo4.png" > 
 
 # Exo 5- Dégradé
-<img src="IMAGES/exo5.png" > 
+<img src="images/exo5.png" > 
 
 # Exo 6- Miroir  
-<img src="IMAGES/exo6.png" > 
+<img src="images/exo6.png" > 
 
 # Exo 7- Image bruitée 
-<img src="IMAGES/exo7.png" > 
+<img src="images/exo7.png" > 
 
 # Exo 8- RGB Split
-<img src="IMAGES/exo8.png" > 
+<img src="images/exo8.png" > 
 
 # Exo 9- Disque 
-<img src="IMAGES/exo9.png" > 
+<img src="images/exo9.png" > 
 
 # Exo 10- Cercle
-<img src="IMAGES/exo10.png" > 
+<img src="images/exo10.png" > 
 
 # Exo 11- Rosace
-<img src="IMAGES/exo11.png" > 
+<img src="images/exo11.png" > 
 
 Pour la rosace je n'ai pas fait se répeter les cercles a partir du meme point mais j'ai plutot decoupé le cercle en N angles reguliers, ce qui répartit les cercles uniformement sur un cercle. 
 
 # Exo 12- Mosaique
-<img src="IMAGES/exo12.png" > 
+<img src="images/exo12.png" > 
 
 # Exo 13- Mosaique miroir 
-<img src="IMAGES/exo13.png" > 
+<img src="images/exo13.png" > 
 
 Fonctionnement: 
 
@@ -53,13 +53,13 @@ Je n'avais pas mis au début oy = y % h pour bien répéter les lignes, et il fa
 
 
 # Exo 14- Tri de pixels 
-<img src="IMAGES/exo14.png" > 
+<img src="images/exo14.png" > 
 
 Ce n'est pas vraiment un tri de pixel mais plutot un glitch vertical aléatoire, le code est donc simplifié par rapport au tri de pixels.
 
 
 # Exo 15- Vortex
-<img src="IMAGES/exo15.png" > 
+<img src="images/exo15.png" > 
 
 Fonctionnement: 
 
@@ -69,7 +69,7 @@ Ensuite on calcule la nouvelle position du pixel après la rotation, et on copie
 
 
 # Exo 16- Convolutions
-<img src="IMAGES/exo16.png" > 
+<img src="images/exo16.png" > 
 
 
 Fonctionnement: 
